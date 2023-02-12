@@ -1,0 +1,19 @@
+theme: hugo-flex
+
+menu:
+  nav:
+    - name: about me
+      url: /about/
+      weight: 3
+    - name: home
+      url: /
+      weight: 1
+    - name: writing
+      url: /writing/
+      weight: 2
+    - name: newsletter!
+      url: /newsletter/
+      weight: 4
+    - name: contact
+      url: /contact/
+      weight: 5
