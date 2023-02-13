@@ -11,7 +11,7 @@ Below is a mix of creative non-fiction, data stories, interactive fiction, digit
 
 > *That night was full of an impossible presence. As time passed we would grow quiet and my thoughts would drift back to Aubrey. Sometimes I didn’t need to say anything. But other times I had to ask Andrew, "How do we keep each other safe? How the fuck are we supposed to do that?"*
 
-[Read on Buzzfeed LGBTQ](https://www.buzzfeed.com/zoewilkinsons/meeting-and-losing-trans-friends-on-the-internet)
+> [Read on Buzzfeed LGBTQ](https://www.buzzfeed.com/zoewilkinsons/meeting-and-losing-trans-friends-on-the-internet)
 
 ---
 
@@ -20,10 +20,7 @@ Below is a mix of creative non-fiction, data stories, interactive fiction, digit
 
 > *So what would it look like if I could map out the universe of pinball as I experience it? I decided to try answering that with the concept of a network of machines.*
 
-[Read on Messy Data (Medium Blog)](https://medium.com/messy-data/on-visualizing-the-loveliness-of-the-pinball-universe-ae00f018ff27/)
-
-Stories from the city, stories from the cloud: an introduction to city open data portals in the United States (2019)
-Read on Messy Data (Medium Blog)
+> [Read on Messy Data (Medium Blog)](https://medium.com/messy-data/on-visualizing-the-loveliness-of-the-pinball-universe-ae00f018ff27/)
 
 ---
 
@@ -32,8 +29,9 @@ Read on Messy Data (Medium Blog)
 
 > *Generations of women — women who could not conceive; women who were queer or part of nontraditional partnerships; women who adopted alone late in life; women who were marginalized by poverty and white supremacy and then judged by society as incapable of showing children stability; women who were for a million reasons considered the wrong kind of woman — have been spectacular mothers. I know that countless trans women must number their ranks.*
 
-[Read on Buzzfeed LGBTQ](https://www.buzzfeed.com/zoewilkinsons/on-trans-motherhood)
-[Read via Wayback Machine with original artwork by Raphaëlle Martin](https://web.archive.org/web/20160405022345/https://www.buzzfeed.com/zoewilkinsons/on-trans-motherhood#.mb1ZyRoNm)
+> [Read on Buzzfeed LGBTQ](https://www.buzzfeed.com/zoewilkinsons/on-trans-motherhood)
+
+> [Read via Wayback Machine with original artwork by Raphaëlle Martin](https://web.archive.org/web/20160405022345/https://www.buzzfeed.com/zoewilkinsons/on-trans-motherhood#.mb1ZyRoNm)
 
 ---
 
@@ -43,7 +41,7 @@ Read on Messy Data (Medium Blog)
 
 > *Newly hired by Reparative Faith Counseling, you take your first unsupervised client. How the sessions go is up to you.*
 
-[Play REPARAITVE on Itch.io for free](https://jamforleelah81.itch.io/reparative)
+> [Play REPARAITVE on Itch.io for free](https://jamforleelah81.itch.io/reparative)
 
 ---
 
@@ -53,7 +51,7 @@ Read on Messy Data (Medium Blog)
 
 > *How can we understand the influence of the local context on these varied open data platforms, especially given their largely homogeneous presentation? This is a question matters not only to folks seeking data, but those deeply invested in the open civic data movement across the United States.*
 
-[Read on Messy Data (Medium Blog)](https://medium.com/messy-data/stories-from-the-city-stories-from-the-cloud-an-introduction-to-city-open-data-portals-in-the-636ab60500bc)
+> [Read on Messy Data (Medium Blog)](https://medium.com/messy-data/stories-from-the-city-stories-from-the-cloud-an-introduction-to-city-open-data-portals-in-the-636ab60500bc)
 
 ---
 
@@ -63,7 +61,7 @@ Read on Messy Data (Medium Blog)
 
 > *For researchers, the Enron Scandal resulted in the creation of one of the largest (and most infamous) correspondence text corpora ever collected.*
 
-[Read on Programming Historian](https://programminghistorian.org/en/lessons/sentiment-analysis)
+> [Read on Programming Historian](https://programminghistorian.org/en/lessons/sentiment-analysis)
 
 ---
 

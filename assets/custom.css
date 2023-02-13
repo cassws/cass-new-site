@@ -4,3 +4,15 @@
 footer {
     background-color: SeaGreen;
 }
+
+a:hover {
+    text-decoration: underline;
+}
+
+p a:hover{
+    text-decoration: none;
+}
+
+a img:hover{
+    filter: brightness(85%);
+  }
